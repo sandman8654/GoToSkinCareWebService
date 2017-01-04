@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  price: 
+  price_currency_id: 1
+  detail: MyString
+  image_url_small: MyString
+  image_url_medium: MyString
+  image_url_large: MyString
+
+two:
+  name: 
+  price: 
+  price_currency_id: 1
+  detail: MyString
+  image_url_small: MyString
+  image_url_medium: MyString
+  image_url_large: MyString

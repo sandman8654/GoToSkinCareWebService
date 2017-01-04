@@ -1,0 +1,2 @@
+class AddressList < ApplicationRecord
+end
